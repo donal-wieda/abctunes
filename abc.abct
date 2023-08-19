@@ -1735,6 +1735,210 @@ V:1 treble
 "F6" D8 |"Em7" D4 BdBG |"Am7" A8- | A4 z4 |]  
  
 X:1
+T:Giant Steps
+C:John Coltrane
+R:Fast Swing
+L:1/8
+Q:1/4=240
+M:4/4
+K:C
+V:1 treble 
+"Bmaj7" ^f4"D7" d4 |"Gmaj7" B4"Bb7" G3 _B- |"Ebmaj7" B8 |"Am7" =B3 A-"D7" A4 |
+"Gmaj7" d4"Bb7" _B4 |"Ebmaj7" G4"F#7" ^D3 ^F- |"Bmaj7" F8 |"Fm7" G4"Bb7" F3 _B- |
+"Ebmaj7" B8 |"Am7" =B4"D7" A3 d- |"Gmaj7" d8 |"C#m7" ^d4"F#7" d3 ^f- | 
+"Bmaj7" f8 |"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" b8 !coda! |"C#m7" ^f3 f"F#7" z4 :|
+!coda!"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" !fermata!b8 |]  
+ 
+X:258
+T:Giant Steps
+C:John Coltrane
+Z:All Rights Reserved
+L:1/8
+Q:1/4=1
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piccolo"
+V:1
+"Bmaj7""_Fast Swing" ^f4"D7" d4 |"Gmaj7" B4"Bb7" G3 _B- |"Ebmaj7" B8 |"Am7" =B3 A-"D7" A4 | %4
+"Gmaj7" d4"Bb7" _B4 |"Ebmaj7" G4"F#7" ^D3 ^F- |"Bmaj7" F8 |"Fm7" G4"Bb7" F3 _B- | %8
+"Ebmaj7" B8 |"Am7" =B4"D7" A3 d- |"Gmaj7" d8 |"C#m7" ^d4"F#7" d3 ^f- | %12
+"Bmaj7" f8 |"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" b8 |1"C#m7" ^f3 f"F#7" z4 :|2 %16
+"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" !fermata!b8 |] %18
+ 
+ 
+X:1
+T:Give Me the Simple Life
+C:Rube Bloom
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+"Fm7" e/ e c/"B7" B A |"Eb7" d/ d"C7" B/ A"Ddim7" G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 | 
+w: I dont be- lieve in|fret- tin and griev- in|Why mess ar- round with|strife? I|
+"Ab" F/ F E/"Abm" F E |"Eb" B/ B B/"Cm7" A G |"F7" e/ e c/"Gm7" B G |"Bb7" F4 | 
+w: nev- er was cut out|to step and stru out|Give me the sim- ple|life.|
+"Fm7" e/ e c/"Bb7" B A |"Eb" d/ d B/"Cm7" A G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 | 
+w: Some find it plea- sant|din- ing on pheas- ant|Those things roll off my|knife. Just|
+"Ab" F/ F E/"Abm" F E |"Eb" B/ B B/"Cm7" A G |"F7" e/ e c/"Bb7" B G |"Eb" E4 | 
+w: serve me to- ma- toes|and mashed po- ta- toes.|Give me the sim- ple|life.|
+ E/"Fm7" c c/"Bb7" c/B/A/c/ |"Eb" B B3 |"Fm7" A/ A A/"Bb7" (3A G F |"Eb" G4 | 
+w: A cot- tage small is all I'm|af- ter,|Not one thats spac- ious and|wide.|
+"Dm7b5" F/ F"G7" F/ F/E/D/F/ |"Cm" E E3 |"F7" F F"Fm7" F/G/F/E/ |"Bb7" F4 | 
+w: A house that rings with joy and|laugh- ter|And the ones you love in-|side|
+"Fm7" e/ e c/"Bb7" B A |"Eb7" d/ d B/"C7" A G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 | 
+w: Some like the high road,|I like the low road,|Free from the care and|strife. Sounds|
+"Ab" F/ F E/"Abm" F E |"Eb" B/ B B/"C7" A G |"F7" e/ e c/ e c |"F#dim7" e/ e c/ e c | 
+w: corn- y and seed- y,|but yes in- deed y;|Give me the simp- le|Give me the sim- ple|
+"Fm7" e/ e c/ e"Bb7" f |"Ab" e2-"Abm" e2- |"Eb" e4 | z4 |] 
+w: Give me the sim- ple|life *|| 
+ 
+X:1
+T:God Bless' The Child
+C:Arthur Herzog Jr, Billie Holiday
+L:1/4
+M:4/4
+K:Eb
+V:1 treble
+E/F/ |:"Ebmaj7" G G"Ab6" F E/F/ |"Ebmaj7" G G"Ab6" F B/c/ |"Bbm7" _d d"Eb7" c B/c/ |"Bbm7" _d B"A7" G2 |
+w:Them that's|got shall get, them that's|not shall not lose, so|the Bible said and it|still is news:|
+w:|strong get more, while the|weak ones fade, emp- ty|pock- ets don't ev- er|make the grade;|
+"Abmaj7" G/ G F/ C2 |"Abm7" G/ G F/ _C3/2 G/ |"Gm7" B/ B G/"C9" B G |"Fm9" G/B/"Bb7" B2 B, |
+w:Ma- ma may have,|Pa- pa may have, but|God Bless' the child that's|got his own! That's|
+"Eb6" C/E/ E2 z |1"Fm7" z2"Bb7" z E/F/ :|2"Eb6" C/E/ E2 z | "Dm7b5" z4 "G7b9" y || 
+w: got his own.|Yes the|got his own.|
+"Cm" e c"Cmmaj7" e c |"Cm7" e c/e/-"Cm6" e2 |"Gm" d B d B |"Dm7b5" d4 "G7"y |
+w:Mon- ey, you got|lots o' friends, _|crowd in' round the|door,|
+"Cm" e c"Cmmaj7" e c |"Cm7" e c/"Cm6"e/- e2 |"Gm" B c"C7" c c |"Fm7" F3 "Bb7" E/F/ |
+w: when you're gone and|spend- in ends, _|they don't come no|more. Rich re-|
+"Ebmaj7" G G"Ab6" F E/F/ |"Ebmaj7" G G"Ab6" F B/c/ |"Bbm7" _d d"Eb9" c B/c/ |"Bbm7" _d B"Eb9" G2 |
+w:la- tions give, crust of|bread and such, you can|help your- self, but don't|take too much!|
+"Abmaj7" G/ G F/ C2 | "Abm7" G/ G F/ _C3/2 G/ |"Gm7" B/ B G/"C7" B G |"Fm7" G/B/"Bb7" B2 B, |
+w:Ma- ma may have,|Pa- pa may have, but|God Bless' the child that's|got his own! that's|
+"Eb6" C/E/"Ab6" E3- |"Eb6" E3 z |]
+w:got his own.|_| 
+ 
+X:1
+T:Good Bait
+C:Tadd Dameron & Count Bassie
+R:Medium Swing
+L:1/8
+M:4/4
+K:Bb
+V:1 treble
+F |:"Bb" B2 BA"Gm7" B2 z2 |"Cm7" z ABc"B7" _de_g_a |"Bb" f2 f=e f2 z2 |"Cm7" z dcB"F7" Acfe |
+"Bb" d2 d^c"Bb7" dgfd |"Eb" B2 BA"Ab7" Bdfe |"Dm7" dA"Dbm7"_A_d"Cm7" cG"B7"_G=B |1"Bb" _B2 z4"F7" z F :|2"Bb" _B2 z4 z2 ||
+"Eb" E2 ED"Cm7" E2 z2 |"Fm7" z DEF"E7" _G_A=B_d | "Eb" B2 B=A B2 z2 |"Fm7" z GFE"Bb7" DFB_A |
+"Eb" G2 G^F"Eb7" GcBG |"Ab" E2 ED"Db7" EGB_A |"Gm7" GD"Gbm7"_D_G"Fm7" FC"E7"=B,=E |"Eb" _E z z2 z2 z"F7" E |
+"Bb" B2 BA"Gm7" B2 z2 |"Cm7" z ABc"B7" _de_g_a |"Bb" f2 f=e f2 z2 |"Cm7" z dcB"F7" Acfe |
+"Bb" d2 d^c"Bb7" dgfd |"Eb" B2 BA"Ab7" Bdfe | "Dm7" dA"Dbm7"_A_d"Cm7" cG"B7"_G=B |"Bb" _B2 z2 z4 |]  
+ 
+X:1
+T:Good Morning Heartache (1)
+C:Ervin Drake
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%stretchlast 1
+P:A
+|: "Cm" z CGF"Cmb6" _E C3 |"Cm6" CC (3GF_E-"Cm7" E4 |
+w:A1~Good- morn- ing heart- ache,|you old gloom- y sight. *|
+w:A2~Wish I'd for- get you,|but you're here to stay. *|
+w:A3~Good morn- ing heart- ache|here we go a- gain *|
+"Fmaj7" z CAG "Bbmaj7"FCAB |"Am7b5" cc (3BBA-"D7b9" A4 |
+w: Good- morn- ing heart- ache, thought we|said good- bye last night. *|
+w:It seems I met you when my|love *went a- way *|
+w:Good morn- ing heart- ache, you're the|one who knew me when. *|
+"Gm7" z DcB"Eb7" AGFE |"Am7" EGE_E-"Abm7" E4 |
+w:I turned and tossed un- til it|seemed you had gone, *|
+w:Now ev- 'ry day I start by|say- ing to you *|
+w:Might as well get used to you|~hang- ing a- round, *|
+|1"Gm7" z CCC"C7#9" _ECEC- |"F6" C6"G7" z2 :|
+w: 1~but here you are with the dawn.||
+|2"Gm7" z CCC"C7#9" _EC=EF- |"Fmaj7" F6 z2 |]
+w:2~good morn- ing heart- ache, what's new?||
+w:3~good morn- ing heart- ache sit down.||
+P:B
+"Em7b5" z A3"A7#9" cAcA- |"Dm6" A8 |
+w:Stop haunt- ing me now,||
+"Em7b5" z A3"A7" ^cAcA- |"Dmaj7" A8 | 
+w: Scan't shake you no- how.||
+"Dm7" z G3"G7#9" BGBG- |"Cmaj7" G6 z G |
+w:Just leave me a- lone.|* I've|
+"Ebm7" _G G2 G-"Ab7" G_A G2 |"Dm7b5" F F2 F-"G7" FG"^D.C. al 2nd" F2||
+w: got those Mon- * day blues|straight thru Sun- * day blues.| 
+ 
+X:1
+T:Good Morning Heartache
+C:Ervin Drake
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+"Cm" z CGF"Cmb6" _E C3 |"Cm6" CC (3GF_E-"Cm7" E4 |"Fmaj7" z CAG "Bbmaj7"FCAB |"Am7b5" cc (3BBA-"D7b9" A4 |
+w: Good- morn- ing heart- ache,|you old gloom- y sight. *|Good- morn- ing heart- ache, thought we|said good- bye last night. *|
+"Gm7" z DcB"Eb7" AGFE |"Am7" EGE_E-"Abm7" E4 |"Gm7" z CCC"C7#9" _ECEC- |"F6" C6"G7" z2 |
+w: I turned and tossed un- til it|seemed you had gone, *|but here you are with the dawn.||
+"Cm" z CGF"Cmb6" _E C3 |"Cm6" CC (3GF_E-"Cm7" E4 |"Fmaj7" z CAG "Bbmaj7"FCAB |"Am7b5" c2 (3BBA-"D7b9" A4 | 
+w: Wish I'd for- get you,|but you're here to stay. *|It seems I met you when my|love went a- way *|
+"Gm7" z DcB"Eb7" AGFE |"Am7" EGE_E-"Abm7" E4 |"Gm7" z CCC"C7#9" _EC=EF- |"Fmaj7" F6 z2 | 
+w: Now ev- 'ry day I start by|say- ing to you *|good morn- ing heart- ache, what's new?||
+"Em7b5" z A3"A7#9" cAcA- |"Dm6" A8 |"Em7b5" z A3"A7" ^cAcA- |"Dmaj7" A8 | 
+w: Stop haunt- ing me now,||can't shake you no- how.||
+"Dm7" z G3"G7#9" BGBG- |"Cmaj7" G6 z G |"Ebm7" _G G2 G-"Ab7" G_A G2 |"Dm7b5" F F2 F-"G7" FG F2 |
+w: Just leave me a- lone.|* I've|got those Mon- * day blues|straight thru Sun- * day blues.|
+"Cm" z CGF"Cmb6" _E C3 |"Cm6" CC (3GF_E-"Cm7" E4 |"Fmaj7" z CAG "Bbmaj7"FCAB |"Am7b5" cc (3BBA-"D7b9" A4 | 
+w: Good morn- ing heart- ache|here we go a- gain *|Good morn- ing heart- ache, you're the|one who knew me when. *|
+"Gm7" DDcB"Eb7" AG F2 |"Am7" EGE_E-"Abm7" E4 |"Gm7" z CCC"C7" ACAF- |"F6" F6 z2 |] 
+w: Might as well get used to you|~hang- ing a- round, *|good morn- ing heart- ache sit down.|| 
+ 
+X:1
+T:Goodbye Pork Pie Hat
+C:Charles Mingus
+Q:1/4=140
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+z2 z4 z B, |: "Eb7" E_G- (3GEG"B7" A G2 E/_D/ |"Emaj7" E _G2 E/_D/"A7" E3 B, |"Db7" E_G- (3GE^F"B7" =A _A2 E/_D/ |"Db7" E _G2 E/D/"Eb7" E3 E |
+"Abm7" B_d- (3dE_G"F#7" A G2 E/G/ |"Fm7" Be- (3e_GA"Bb7" (3:2:2_d2 B (3^F=D=B, |"C7" (3^F2 =A2 =E2"F7" (3=D2 A2 =F2 |"B7" _G4"Emaj7" E3 =A/_A/ |
+"A7" _G4"Ab7" E4 | "Bb7" A_GE_D"Db7" =A_AGE |"Eb7#9" _G4"B7" E4 |"Emaj7" (3B2 A2 _G2"A7" (3E2 _D2 B,2 :|!fermata!"Ebmmaj7"E8|]
+ 
+ 
+X:1
+T:Groove Merchant
+C:Jerome Richardson
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+{^F} GBBG |:"Bb7" d2 z2 z4 |"Eb7" z2 F^F GBBG |"Bb7" !^!B2 z2 z4 | z4"F7" GBBG |
+"Bb"{^c} df-"Bb/Ab" f6 |"Gm7" z2 !^!g2"C7" _d<c BG |"F7" c2 z2"C7" z4 |"F7" z4 dffd |
+"Bb7" gf f2- f2 dB | z4{^F} GBBG |"Eb7" cB- B4GB |"E" z4 GBg_g |
+|1"Bb/F" f2z^f"D7/F#" z4 |"Gm7" gfdc"Eb7" B2 _dB | "Cm7" =e_e _dB"F7" _AF E_D |"Bb" B,2 z2 GBBG :|
+|2"Bb/F" f2z^f"D7/F#" z4 |"Gm7" gfdc"Eb7" B2 g_g |"Bb/F" f2z^f"D7/F#" z4 |"Gm7" gfdc"Eb7" B2 g_g |
+"Bb/F" f2z^f"D7/F#" z4 |"Gm7" gfdc"Eb7" B2 _dB |"Cm7" =e_e _dB"F7" _AF E_D |"Bb" B,2 z2 z4 |]  
+ 
+X:1
+T:Groovin' High
+C:Charlie Parker, Dizzy Gillespie
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+P:A1
+"Eb" BG z2 z4 | BG z2 z4 |"Am7"z=E =Ac"D7" =BA^GE |"Am7" GF^Fd-"D7" d2 c=A |
+"Eb" BG z2 z4 | BG z2 z4 |"Gm7"zD GB"C7" =AG^FD |"Gm7" FE=Ec-"C7" c2 B^G |
+"F7" =AF z2 z4 | (3=ABA F z z4 ||"Fm7"zC FA"Bb7" GF=EC |"Fm7" E^CDB-"Bb7" B2 A^F | 
+"Eb" GBdf-"Gm7" f2 dB |"F#m7" =e^c z2 z4 |"Fm7" FAce- e2 cA |"E7" d=B z2 z2 B/^c/B/=A/ ||
+P:A2
+"Eb" BG z2 z4 | BG z2 z4 |"Am7"z=E =Ac"D7" =BA^GE |"Am7" GF^Fd-"D7" d2 c=A |
+"Eb" BG z2 z4 | BG z2 z4 |"Gm7"zD GB"C7" =AG^FD |"Gm7" FE=Ec-"C7" c2 B^G |
+"F7" =AF z2 z4 | (3=ABA F z z4 |"Fm7"zC FA"Bb7" GF=EC ||"Fm7" E^CDB-"Bb7" B2 A=E |
+"Fm7" .F2 FG AG .F2 |"Abm7" .A2 AB"Db7" _cB .A2 | "Eb6" .e2 z2"Gb7" z4 |"Fm7" z4"E7" z4 |]  
+ 
+X:1
 T: St. James Infirmary
 C: Joe Primrose (Irving Mills), Don Redman (1928)
 R: Swing 70 bpm
